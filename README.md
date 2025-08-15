@@ -32,5 +32,4 @@ Você pode adicionar os seguintes arquivos ao seu repositório do GitHub:
 * taxa_cancelamento_por_mes_hotel.csv: Tabela com a taxa de cancelamento por mês e tipo de hotel.
 * tendencia_reservas_cancelamentos.png: Gráfico de linhas da tendência de reservas e cancelamentos.
 * taxa_cancelamento_por_hotel.png: Gráfico de barras da taxa de cancelamento por tipo de hotel.
-* distribuicao_formas_pagamento.png: Gráfico de pizza da distribuição das formas de pagamento.
 * duracao_media_estadia.png: Gráfico de barras da duração média da estadia por tipo de hotel.
